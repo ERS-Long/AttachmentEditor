@@ -55,6 +55,7 @@ add the widget setting
 Put the widget code to folder \widgets
 
 
+Expand the attachmentEditor widget, the map click event changes to the attachment editor click, Collapse the widget, the map click changes back to the default.  
             
 
 ![alt tag](/AttachmentEditor.PNG)
