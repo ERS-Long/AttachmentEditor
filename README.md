@@ -1,4 +1,4 @@
-# FeatureTable
+# Attachment Editor
 Example Widget to test Attachment Editor in CMV
 
 Used ESRI Example https://developers.arcgis.com/javascript/3/jssamples/ed_attachments.html
